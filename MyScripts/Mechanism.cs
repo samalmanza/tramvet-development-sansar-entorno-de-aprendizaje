@@ -1,7 +1,8 @@
 
 /* este código mueve un objeto para arriba o para abajo, dependiendo de qué clase estés usando
  la clase GoUp lleva el objeto hacia arriba y a su posición inicial
- la clase GoDown lleva el objeto hacia abajo y a su posición inicial */
+ la clase GoDown lleva el objeto hacia abajo y a su posición inicial
+ This work uses content from the Sansar Knowledge Base. � 2018 Linden Research, Inc. Licensed under the Creative Commons Attribution 4.0 International License (license summary available at https://creativecommons.org/licenses/by/4.0/ and complete license terms available at https://creativecommons.org/licenses/by/4.0/legalcode). */
 
 using Sansar;
 using Sansar.Script;
