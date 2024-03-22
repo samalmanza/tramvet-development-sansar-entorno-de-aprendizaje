@@ -1,6 +1,7 @@
 
 /* este es un simple código para un botón
- hace que un objeto se pueda clickear, y manda una advertencia de que fue clickeado para que otros códigos lo detecten */
+ hace que un objeto se pueda clickear, y manda una advertencia de que fue clickeado para que otros códigos lo detecten
+ This work uses content from the Sansar Knowledge Base. � 2018 Linden Research, Inc. Licensed under the Creative Commons Attribution 4.0 International License (license summary available at https://creativecommons.org/licenses/by/4.0/ and complete license terms available at https://creativecommons.org/licenses/by/4.0/legalcode). */
 
 using Sansar;
 using Sansar.Script;
